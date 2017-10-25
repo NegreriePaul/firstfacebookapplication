@@ -1,4 +1,4 @@
 <?php
-echo "vive la france!";
+echo "vive la FRANCE !";
 
 ?>
